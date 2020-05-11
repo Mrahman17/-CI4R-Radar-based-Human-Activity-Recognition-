@@ -1,4 +1,4 @@
-# -CI4R-Radar-based-Human-Activity-Recognition-
+# CI4R-Radar-based-Human-Activity-Recognition
 Human activity dataset from the laboratory of Computational intelligence for Radar (Ci4R) has been made public here. 
 The associated paper to this dataset is as follows:
 # CrossFrequency training with Adversarial learning for radar micro-Doppler signature classification
